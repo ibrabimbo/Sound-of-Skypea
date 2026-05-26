@@ -1,7 +1,8 @@
-[README (3).md](https://github.com/user-attachments/files/28174352/README.3.md)
 **The Sound of Skypea**
 
 A battery-powered, aerial system that records the vibration of its body caused by free fall, then lands safely with a parachute.
+
+
 
 **Why?**
 
