@@ -46,7 +46,7 @@ You can find the files here:
 
 Step files:
 
-STL files: [link](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/STL)
+STL files: [STL](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/STL)
 
 Print each part once. Afterwards, you might have to use sandpaper to even out the threads on part 1 and 2, so that later they can be connected.
 
