@@ -44,7 +44,7 @@ Start by 3d printing the models, first the body (part 1\) and then the smaller c
 
 You can find the files here:
 
-Step files:
+Step files:[Step](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/Step)
 
 STL files: [STL](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/STL)
 
