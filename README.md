@@ -2,7 +2,7 @@
 
 A battery-powered, aerial system that records the vibration of its body caused by free fall, then lands safely with a parachute.
 
-![picture](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/skypea%20topright.png=true)
+![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/skypea%20topright.png)
 
 **Why?**
 
