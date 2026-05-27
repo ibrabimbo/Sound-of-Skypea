@@ -44,9 +44,9 @@ Start by 3d printing the models, first the body (part 1\) and then the smaller c
 
 You can find the files here:
 
-Step files:[Step](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/Step)
+Step files: [Step](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/Step)
 
-STL files: [STL](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/STL)
+STL files:  [STL](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/STL)
 
 Print each part once. Afterwards, you might have to use sandpaper to even out the threads on part 1 and 2, so that later they can be connected.
 
