@@ -42,7 +42,9 @@ Of course, electronics and screws are not “everything”. The body itself is 3
 
 Start by 3d printing the models, first the body (part 1\) and then the smaller components, if your printer isn’t capable of handling it all at once.
 
-You can find the files in the  “STL” folder.
+You can find the files here:
+Step files:
+STL files:
 
 Print each part once. Afterwards, you might have to use sandpaper to even out the threads on part 1 and 2, so that later they can be connected.
 
