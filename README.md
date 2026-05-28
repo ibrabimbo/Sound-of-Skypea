@@ -70,7 +70,17 @@ Download circuit python ( from [circuitpython.org](http://circuitpython.org) ) o
 
 Then, enter the bootloader by holding down the “Boot” button, and while continuing to hold it, press and release  the “Reset” button. Keep holding the Boot button until the RPI-RPI2 drive. The RPI-RPI2 drive will disappear when the firmware is loaded.
 
-**6\. Absolute Assembly**  
+**6. Descend System**
+To actually make it safe to use the system, we must build the parachute system. You can alternatively buy the amazon one from the BOM, but the following guide can help you make your own: [parachute]()
+
+
+
+
+
+
+
+
+**7\. Absolute Assembly**  
 *Last but not least, you need to actually put the parts together.*  
  
 
