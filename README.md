@@ -2,7 +2,7 @@
 
 A battery-powered, aerial system that records the vibration of its body caused by free fall, then lands safely with a parachute.
 
-![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/skypea%20topright.png)
+![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/Pictures/skypea%20topright.png)
 
 **Why?**
 
@@ -60,7 +60,7 @@ You will find insertable screw threads in the BOM. This is where they come into 
 
 **4\. Soldering**
 
-![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/wiring_plan.png)
+![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/Pictures/wiring_plan.png)
 
 
 Follow this wiring diagram to connect then electronics. You might need to cut off a plug from the end of the servo’s wires, feel free to do so. Also, keep in mind that even at this stage, the microphone on the Adafruit I2S MEMS should be facing away , this is crucial because of the way it sits in the build and also allows you to differentiate the pins easier.
