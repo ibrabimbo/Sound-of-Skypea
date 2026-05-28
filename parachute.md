@@ -21,7 +21,7 @@ The shown demonstration shows a panel of the parachute, which you will need two 
 * Try to leave about 2mm of cloth between your sewing line and the very edge of the panel.  
 *  If needed, you can prepare by fixating this position with needles and only sewing one side at a time. I would start with the sides of the “square” in the middle, and then sew together the outline of the circles. Use your most frequent linear setting on the machine, or sew accordingly by hand.
 
- ![][image2]  
+ ![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/Pictures/parachute2.png) 
 **3\. Strings**  
  ***The blue lines represent the strings.***
 
