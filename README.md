@@ -78,7 +78,7 @@ To actually make it safe to use the system, we must build the parachute system. 
 **7\. Absolute Assembly**  
 *Last but not least, you need to actually put the parts together.*  
 
-Onshape (for assembly reference): [file](https://cad.onshape.com/documents/749d855f21592cb7ad435800/w/52d14e606b9725a530c02d20/e/6858fd8794da090b422fa8f4)
+Onshape (for assembly reference): [assembly](https://cad.onshape.com/documents/749d855f21592cb7ad435800/w/52d14e606b9725a530c02d20/e/6858fd8794da090b422fa8f4)
  
 
 1. Put your SD card into the adalogger.  
