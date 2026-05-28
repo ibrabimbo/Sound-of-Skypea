@@ -1,4 +1,4 @@
-![][image1]
+![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/Pictures/parachute1.png) 
 
 The shown demonstration shows a panel of the parachute, which you will need two of, to make it a whole (seen in the equation).
 
