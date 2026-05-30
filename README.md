@@ -108,4 +108,10 @@ Onshape (for assembly reference): [assembly](https://cad.onshape.com/documents/7
 12. Take the tip of the print (part 2\) and fill it up with the fishing weights\! This is crucial because it ensures that the system will fall in the correct position.  
 13. Screw it into the narrower end of part 1\.
 
-	*Thats it, you’re done.*  
+	*Thats it, you’re done.*
+
+
+
+
+![Logo]()
+
