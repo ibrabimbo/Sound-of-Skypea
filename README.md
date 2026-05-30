@@ -113,5 +113,5 @@ Onshape (for assembly reference): [assembly](https://cad.onshape.com/documents/7
 
 
 
-![Logo]()
+![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/Pictures/zine_page.png)
 
