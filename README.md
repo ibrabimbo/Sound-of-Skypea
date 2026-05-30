@@ -73,7 +73,7 @@ You will find insertable screw threads in the BOM. This is where they come into 
 Follow this wiring diagram to connect then electronics. You might need to cut off a plug from the end of the servo’s wires, feel free to do so. Also, keep in mind that even at this stage, the microphone on the Adafruit I2S MEMS should be facing away , this is crucial because of the way it sits in the build and also allows you to differentiate the pins easier. The colors of the proposed wires dont mean anything, dont correlate them with purposes.
 
 **5.Software**  
-Download circuit python ( from [circuitpython.org](http://circuitpython.org) ) onto the adalogger and load the [.vscode](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/.vscode) on to it.
+Download circuit python ( from [circuitpython.org](http://circuitpython.org) ) onto the adalogger and load the [.vscode](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/.vscode) on to it. But first, modify the servo_delay_seconds variable based on the last point of this README.
 
 Then, enter the bootloader by holding down the “Boot” button, and while continuing to hold it, press and release  the “Reset” button. Keep holding the Boot button until the RPI-RPI2 drive. The RPI-RPI2 drive will disappear when the firmware is loaded.
 
@@ -110,6 +110,14 @@ Onshape (for assembly reference): [assembly](https://cad.onshape.com/documents/7
 
 	*Thats it, you’re done.*
 
+
+**8\. How to "fly" it**
+
+Choose a high point, like a building or a cliff, the important thing is that you know the height of which you are dropping the system from. It is preferable to be atleast 50 meters, since the longer the drop the better. 
+
+For 50 meters, the servo_delay_seconds should be 1.20 seconds. Add 1 second every 30 meters, roughly calculating. Here is the formula to accurately calculate: t = √(2h/g). You get a figure, subtract MINIMUM  2 and type it into the varieble. Preferrably substract more than 2 because this is the time that the parachute has to open under, in seconds. 
+
+ALWAYS HAVE SOMEBODY CLEAR THE SPACE UNDER YOU! It will fall slowly, but it is still not comfortable to be hit with. Trust me, I have done this many times, have someone look out under for bypassers.
 
 
 
