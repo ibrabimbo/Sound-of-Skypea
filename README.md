@@ -95,7 +95,7 @@ Onshape (for assembly reference): [assembly](https://cad.onshape.com/documents/7
      
    *Pay attention to the wires and soldering, try not to damage your precious work.*  
      
-5. Plug the battery in to the adalogger and place it on the main body based on the onshape assembly.   
+5. Take the battery and place it on the main body based on the onshape assembly.   
 6. Grab the battery attachment 3D part and place it on the battery, then screw it in.  
 7. Repeat this process with the servo.   
 8. Take your servo arm (3D printed part) and attach it to the servo’s axis (might have to remove the part it originally came with).  
@@ -115,9 +115,15 @@ Onshape (for assembly reference): [assembly](https://cad.onshape.com/documents/7
 
 Choose a high point, like a building or a cliff, the important thing is that you know the height of which you are dropping the system from. It is preferable to be atleast 50 meters, since the longer the drop the better. 
 
-For 50 meters, the servo_delay_seconds should be 1.20 seconds. Add 1 second every 30 meters, roughly calculating. Here is the formula to accurately calculate: t = √(2h/g). You get a figure, subtract MINIMUM  2 and type it into the varieble. Preferrably substract more than 2 because this is the time that the parachute has to open under, in seconds. 
+For 50 meters, the servo_delay_seconds should be 1.20 seconds. Add 1 second every 30 meters, roughly calculating. Here is the formula to accurately calculate: t = √(2h/g). You get a figure, add five (later explained) and then subtract MINIMUM  2 and type it into the varieble. Preferrably substract more than 2 because this is the time that the parachute has to open under, in seconds. 
+
+Climb up wherever you are dropping it from. If you followed the assembly carefully, your battery is not yet connected to the adalogger. Now is the time, connect it and from the moment of contact, start counting. After counting to 5 ( this is why we added it to the number), let go, so that the nose faces downwards. Pay attention not to fall with it tho, always grab onto something with your other arm.
 
 ALWAYS HAVE SOMEBODY CLEAR THE SPACE UNDER YOU! It will fall slowly, but it is still not comfortable to be hit with. Trust me, I have done this many times, have someone look out under for bypassers.
+
+I get it, this might sound a little dangerous. You are right, doing this in an urban area does require a lot of careful cooperation, but nonetheless is very cool if done right.. However, a drone-attachement is on the way, so that you can drop it from higher while also making the process easier. Stay tuned :)
+
+
 
 
 
