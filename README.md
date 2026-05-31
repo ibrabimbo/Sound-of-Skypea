@@ -26,7 +26,7 @@ You’ll have to source some components to build The sound of Skypea. You can fi
 | ----- | :---- | :---- | :---- |
 | Adafruit Feather RP2040 Adalogger | 15 | main board | https://eu.mouser.com/ProductDetail/Adafruit/5980?qs=IKkN%2F947nfCnlS5PgbpnkA%3D%3D |
 | Adafruit I2S MEMS ICS-43434  | 5 | microphone | https://eu.mouser.com/ProductDetail/Adafruit/6049?qs=olJun0bQHM88XeFsw90dVw%3D%3D |
-| SG92R  | servo motor | 6 | https://eu.mouser.com/ProductDetail/Adafruit/169?qs=GURawfaeGuBHe0ZgcSsTjA%3D%3D |
+| SG92R  | 6 | servo motor | https://eu.mouser.com/ProductDetail/Adafruit/169?qs=GURawfaeGuBHe0ZgcSsTjA%3D%3D |
 | Adafruit MiniBoost 5V | 3 | booster | https://eu.mouser.com/ProductDetail/Adafruit/3661?qs=W0yvOO0ixfEzr%2F%252BSbf0hYQ%3D%3D |
 | Li-Po Battery LP852040 | 8.67 | battery | https://www.akyga.com/products/873-li-po-battery-lp852040-akyga-aky0661-3-7v-620mah-pcm-jst-2-pin-connector-150mm.html |
 | JST-PH 2.0 | 0.75 | battery cable | https://eu.mouser.com/ProductDetail/Adafruit/261?qs=GURawfaeGuDeA9XsXeF0ug%3D%3D |
