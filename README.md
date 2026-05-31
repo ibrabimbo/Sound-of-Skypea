@@ -123,7 +123,7 @@ Choose a high point, like a building or a cliff, the important thing is that you
 
 For 50 meters, the servo_delay_seconds should be 1.20 seconds. Add 1 second every 30 meters, roughly calculating. Here is the formula to accurately calculate: t = √(2h/g). You get a figure, add five (later explained) and then subtract MINIMUM  2 and type it into the varieble. Preferrably substract more than 2 because this is the time that the parachute has to open under, in seconds. 
 
-Climb up wherever you are dropping it from. If you followed the assembly carefully, your battery is not yet connected to the adalogger. Now is the time, connect it and from the moment of contact, start counting. After counting to 5 ( this is why we added it to the number), let go, so that the nose faces downwards. Pay attention not to fall with it tho, always grab onto something with your other arm.
+Climb up wherever you are dropping it from. If you followed the assembly carefully, your battery is not yet connected to the adalogger. Now is the time, connect it and from the moment of contact, start counting. After counting to 5 ( this is why we added it to the number), or alternatively starting a 5 second timer at the moment of connection ( recommended ), wait until it runs out and let go, so that the nose faces downwards. Pay attention not to fall with it tho, always grab onto something with your other arm.
 
 ALWAYS HAVE SOMEBODY CLEAR THE SPACE UNDER YOU! It will fall slowly, but it is still not comfortable to be hit with. Trust me, I have done this many times, have someone look out under for bypassers.
 
