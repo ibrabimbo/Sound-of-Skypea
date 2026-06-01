@@ -87,7 +87,7 @@ Then, enter the bootloader by holding down the “Boot” button, and while cont
 
 **6. Descend System**
 
-To actually make it safe to use the system, we must build the parachute system. You can alternatively buy the amazon one from the BOM, but the following guide can help you make your own: [parachute](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/parachute.md)
+To actually make it safe to use the system, we must build the parachute system. You can alternatively buy the amazon one from the BOM, but the following guide can help you make your own: [parachute](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/docs/parachute.md)
 
 
 **7\. Absolute Assembly**  
