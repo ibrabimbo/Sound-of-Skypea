@@ -1,4 +1,4 @@
-#The Sound of Skypea#
+# The Sound of Skypea #
 
 A battery-powered, aerial system that records the vibration of its body caused by free fall, then lands safely with a parachute.
 
@@ -14,7 +14,7 @@ I decided to build something that is capable of recording this, while also
 * adding a landing system, so its reusable and safe  
 * looking cool
 
-##Assembly##
+# Assembly #
 
 So you want one of these for yourself? No problem, the following guide will walk you through building it step by step.
 
@@ -52,7 +52,7 @@ And even though you can buy a complete one, I recommend making one yourself.
 
 Of course, electronics and screws are not “everything”. The body itself is 3d printed. You will need to print some parts to finish the build. A  3d printer is recommended, as well as some soldering skills.
 
-#2\. 3D printing#
+# 2\. 3D printing #
 
 Start by 3d printing the models, first the body (part 1\) and then the smaller components, if your printer isn’t capable of handling it all at once.
 
@@ -64,7 +64,7 @@ STL files:  [STL](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/STL)
 
 Print each part once. Afterwards, you might have to use sandpaper to even out the threads on part 1 and 2, so that later they can be connected.
 
-#3\. Inserts#
+# 3\. Inserts #
 
 You will find insertable screw threads in the BOM. This is where they come into play. Different parts hold together with screws, so you'll need to install these threaded inserts into the 3d parts.
 
@@ -72,7 +72,7 @@ You will find insertable screw threads in the BOM. This is where they come into 
 2. Locate the 10 holes on the top of the body (wider end).  
 3. Populate the holes with the inserts one by one, based on the issued instructions received with the inserts.
 
-#4\. Soldering#
+# 4\. Soldering #
 
 ![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/Pictures/wiring_plan.png)
 
@@ -80,17 +80,17 @@ I understand that this diagram may not be my best work, here is a soldering list
 
 Follow this wiring diagram/list to connect then electronics. Keep in mind that the battery in the picture is a different one most likely, but that doesnt matter because jst connectors are the same. You might need to cut off a plug from the end of the servo’s wires, feel free to do so. Also, keep in mind that even at this stage, the microphone on the Adafruit I2S MEMS should be facing away , this is crucial because of the way it sits in the build and also allows you to differentiate the pins easier. The colors of the proposed wires dont mean anything, dont correlate them with purposes.
 
-#5.Software#
+# 5.Software #
 Download circuit python ( from [circuitpython.org](http://circuitpython.org) ) onto the adalogger and load the [.vscode](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/.vscode) on to it. But first, modify the servo_delay_seconds variable based on the last point of this README.
 
 Then, enter the bootloader by holding down the “Boot” button, and while continuing to hold it, press and release  the “Reset” button. Keep holding the Boot button until the RPI-RPI2 drive. The RPI-RPI2 drive will disappear when the firmware is loaded.
 
-#6. Descend System#
+# 6. Descend System #
 
 To actually make it safe to use the system, we must build the parachute system. You can alternatively buy the amazon one from the BOM, but the following guide can help you make your own: [parachute](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/docs/parachute.md)
 
 
-#7\. Absolute Assembly# 
+# 7\. Absolute Assembly # 
 *Last but not least, you need to actually put the parts together.*  
 
 Onshape (for assembly reference): open-> [assembly_link](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/docs/onshape.md)
@@ -120,7 +120,7 @@ Onshape (for assembly reference): open-> [assembly_link](https://github.com/ibra
 	*Thats it, you’re done.*
 
 
-#8\. How to "fly" it#
+# 8\. How to "fly" it #
 
 Choose a high point, like a building or a cliff, the important thing is that you know the height of which you are dropping the system from. It is preferable to be atleast 50 meters, since the longer the drop the better. 
 
