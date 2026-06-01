@@ -78,7 +78,7 @@ You will find insertable screw threads in the BOM. This is where they come into 
 
 I understand that this diagram may not be my best work, here is a soldering list for clarification: [wiring](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/wiring.md)
 
-Follow this wiring diagram/list to connect then electronics. You might need to cut off a plug from the end of the servo’s wires, feel free to do so. Also, keep in mind that even at this stage, the microphone on the Adafruit I2S MEMS should be facing away , this is crucial because of the way it sits in the build and also allows you to differentiate the pins easier. The colors of the proposed wires dont mean anything, dont correlate them with purposes.
+Follow this wiring diagram/list to connect then electronics. Keep in mind that the battery in the picture is a different one most likely, but that doesnt matter because jst connectors are the same. You might need to cut off a plug from the end of the servo’s wires, feel free to do so. Also, keep in mind that even at this stage, the microphone on the Adafruit I2S MEMS should be facing away , this is crucial because of the way it sits in the build and also allows you to differentiate the pins easier. The colors of the proposed wires dont mean anything, dont correlate them with purposes.
 
 **5.Software**  
 Download circuit python ( from [circuitpython.org](http://circuitpython.org) ) onto the adalogger and load the [.vscode](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/.vscode) on to it. But first, modify the servo_delay_seconds variable based on the last point of this README.
