@@ -74,7 +74,7 @@ You will find insertable screw threads in the BOM. This is where they come into 
 
 # 4\. Soldering #
 
-![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/Pictures/wiring_plan.png)
+![Logo](https://github.com/ibrabimbo/Sound-of-Skypea/blob/main/Pictures/wiring_diagram_straight.png)
 
 I understand that this diagram may not be my best work, here is a soldering list for clarification: [wiring](https://github.com/ibrabimbo/Sound-of-Skypea/tree/main/docs/wiring.md)
 
